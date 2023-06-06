@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
