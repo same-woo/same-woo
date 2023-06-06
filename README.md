@@ -1,5 +1,5 @@
 ### Hi there 👋
-github-readme-stats.vercel.app/api?same_woo={same_woo}&show_icons=true&theme=dark
+github-readme-stats.vercel.app/api?username={same_woo}&show_icons=true&theme=dark
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <!--
