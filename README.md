@@ -1,6 +1,6 @@
 ### Hi there 👋
-github-readme-stats.vercel.app/api?username={same-woo}&show_icons=true&theme=dark
 
+github-readme-stats.vercel.app/api?username={same-woo}&show_icons=true
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <!--
 **same-woo/same-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
