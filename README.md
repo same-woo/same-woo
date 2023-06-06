@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=same-woo&show_icons=true&theme=스타일)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=same-woo)](https://solved.ac/same-woo)
 <!--
 **same-woo/same-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
