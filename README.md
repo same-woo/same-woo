@@ -1,4 +1,4 @@
-###  👋 "The only way to do great work is to love what you do." - Steve Jobs
+### "The only way to do great work is to love what you do." - Steve Jobs
 
 <!--
 **same-woo/same-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
